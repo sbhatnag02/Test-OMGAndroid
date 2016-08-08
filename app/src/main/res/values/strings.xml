@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OMG Android</string>
+    <string name = "helloworld">Sarthak is learning how to build android apps</string>
+    <string name = "action_settings">Settings</string>
+</resources>
